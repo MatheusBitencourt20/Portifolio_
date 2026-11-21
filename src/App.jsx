@@ -233,6 +233,21 @@ function App() {
 
       <span className="contact-arrow">↗</span>
     </a>
+    <a
+      href="https://www.linkedin.com/in/matheusbitencourt2003/"
+      target="_blank"
+      rel="noreferrer"
+      className="contact-card"
+    >
+      <span className="contact-icon">In</span>
+
+      <div>
+        <strong>LinkdIn</strong>
+        <small>Meu contato proficional</small>
+      </div>
+
+      <span className="contact-arrow">↗</span>
+    </a>
 
   </div>
 </section>
